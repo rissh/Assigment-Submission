@@ -16,7 +16,7 @@ After the loop finishes, return count.
 
 ## Complexity
 
-- Time complexity: O(n)
+- Time complexity: O(N)
 - Space complexity: O(1)
 
 
